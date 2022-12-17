@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # # Portfolio optimization example
-4
 
 # ## Load Packages
 
